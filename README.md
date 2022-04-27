@@ -1,24 +1,24 @@
 # Popular/Useful Resources
 
-## General DataSCience Related.
+## General DataSCience.
 
 |#No|Name|Description|Link|
 | :----: | :--------------------------: | ----------------------------------------------- | :-----------: |
 | 1 | YetToCome | YetToCome. | YetToCome |
 
-## Machine Learning Related.
+## Machine Learning.
 
 |#No|Name|Description|Link|
 | :----: | :--------------------------: | ----------------------------------------------- | :-----------: |
 | 1 | YetToCome | YetToCome. | YetToCome |
 
-## Deep Learning Related.
+## Deep Learning.
 
 |#No|Name|Description|Link|
 | :----: | :--------------------------: | ----------------------------------------------- | :-----------: |
 | 1 | YetToCome | YetToCome. | YetToCome |
 
-## Conferences / Papers Related.
+## Conferences / Papers.
 
 |#No|Name|Description|Link|
 | :----: | :--------------------------: | ----------------------------------------------- | :-----------: |
