@@ -1,6 +1,6 @@
 # Popular/Useful Resources
 
-## General DataSCience.
+## General DataScience.
 
 |#No|Name|Description|Link|
 | :----: | :--------------------------: | ----------------------------------------------- | :-----------: |
