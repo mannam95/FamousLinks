@@ -3,6 +3,6 @@
 
 ## Details
 
-| #No | Name                                           | Link                                   | Details     |                                                        |
-| --- | ---------------------------------------------- | ---------------------------------------|-------------------------------------------------------|
-| 1   | Conferences OverView                           | [ConfViews](https://www.confviews.com/ |Gives the overview of submitted papers at conferences. |
+|#No|Name|Description|Link|
+| :------: | :------------------------: | ----------------------------------------------- | :-----------: |
+|1|Conferences OverView  | Gives the overview of the submitted papers for most of the popular conferences.|[ConfViews]([ConfViews](https://www.confviews.com/)|
