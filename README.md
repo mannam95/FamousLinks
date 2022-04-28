@@ -1,60 +1,12 @@
 # Popular/Useful Resources
 
-## General DataScience.
+## Details
+* This repo contains useful links for the respected technologies.
 
-|#No|Name|Description|Link|
+|#No|Field|Description|Link|
 | :----: | :--------------------------: | ----------------------------------------------- | :-----------: |
-| 1 | YetToCome | YetToCome. | YetToCome |
-
-## Machine Learning.
-
-|#No|Name|Description|Link|
-| :----: | :--------------------------: | ----------------------------------------------- | :-----------: |
-| 1 | YetToCome | YetToCome. | YetToCome |
-
-## Deep Learning.
-
-|#No|Name|Description|Link|
-| :----: | :--------------------------: | ----------------------------------------------- | :-----------: |
-| 1 | YetToCome | YetToCome. | YetToCome |
-
-## Conferences / Papers.
-
-|#No|Name|Description|Link|
-| :----: | :--------------------------: | ----------------------------------------------- | :-----------: |
-| 1 | ConfViews | Gives the overview of the submitted papers for most of the popular conferences.| [ConfViews](https://www.confviews.com/) |
-| 2 | Arxiv-Vanity | ArXiv-Vanity renders academic papers from [arXiv](https://arxiv.org/) as responsive web pages.| [Arxiv-Vanity](https://www.arxiv-vanity.com/) |
-
-## Python.
-
-|#No|Name|Description|Link|
-| :----: | :--------------------------: | ----------------------------------------------- | :-----------: |
-| 1 | YetToCome | YetToCome. | YetToCome |
-
-
-## C# / Asp.Net.
-
-|#No|Name|Description|Link|
-| :----: | :--------------------------: | ----------------------------------------------- | :-----------: |
-| 1 | YetToCome | YetToCome. | YetToCome |
-
-
-## ReactJs / React Native.
-
-|#No|Name|Description|Link|
-| :----: | :--------------------------: | ----------------------------------------------- | :-----------: |
-| 1 | YetToCome | YetToCome. | YetToCome |
-
-
-## Angular.
-
-|#No|Name|Description|Link|
-| :----: | :--------------------------: | ----------------------------------------------- | :-----------: |
-| 1 | YetToCome | YetToCome. | YetToCome |
-
-
-## Xamarin.
-
-|#No|Name|Description|Link|Author|
-| :----: | :--------------------------: | ----------------------------------------------- | :-----------: | --------------- |
-| 1 | Plugins | A repo which contains info about xamarin plugins.| [Xamarin-Plugins](https://github.com/jamesmontemagno/Xamarin.Plugins) | [@jamesmontemagno](https://github.com/jamesmontemagno) |
+| 1 | data_science | Contains info about `general Data-Science, Machine Learning, Deep Learning,` etc. | [View](https://github.com/mannam95/HelpfulResources/tree/main/data_science |
+| 1 | backend | Contains info about backend languages such as `C#, Java, Python,` etc. | [View](https://github.com/mannam95/HelpfulResources/tree/main/backend |
+| 1 | frontend | Contains info about frontend frameworks such as `Angular, ReactJs,` etc. | [View](https://github.com/mannam95/HelpfulResources/tree/main/frontend |
+| 1 | mobile | Contains info about mobile frameworks such as `React Native, Xamarin, ` etc. | [View](https://github.com/mannam95/HelpfulResources/tree/main/mobile |
+| 1 | tools | Contains info about general useful tools. | [View](https://github.com/mannam95/HelpfulResources/tree/main/tools |
